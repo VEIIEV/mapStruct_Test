@@ -1,0 +1,11 @@
+AuthorMapper.class
+DepartmentDto.class
+EmployeeDto.class
+Department.class
+AuthorMapperImpl.class
+EmployeeMapper.class
+Main.class
+Author.class
+AuthorDto.class
+EmployeeMapperImpl.class
+Employee.class
